@@ -79,9 +79,9 @@ I began my QA journey by exploring how systems work and how to ensure they meet 
 ---
 
 ## 📫 Let’s Connect
-- **LinkedIn:** [https://www.linkedin.com/in/rairanon/]  
+- **LinkedIn:** [https://www.linkedin.com/in/rairanon/](https://www.linkedin.com/in/rairanon/)
 - **Email:** rbyiranon.qa@gmail.com 
-- **GitHub:** [https://github.com/rbyiranon]
+- **GitHub:** [https://github.com/rbyiranon](https://github.com/rbyiranon)
 - > ⚠️ Note:
     > Some repositories and automation frameworks are kept private due to company confidentiality and data protection policies.
     > However, I can provide sanitized examples, project overviews, or live walkthroughs upon request.
