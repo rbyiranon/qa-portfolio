@@ -57,7 +57,7 @@ I began my QA journey by exploring how systems work and how to ensure they meet 
 ## 🌟 Key Achievements 
 - Built complete QA processes independently for multiple projects, taking full ownership of testing activities
 - Designed a standardized bug reporting template to improve clarity and consistency
-- Created a Trello board for task and bug management to streamline independent QA workflow
+- Created a template boards for task and bug management to streamline independent QA workflow
 - Started developing automation scripts to reduce repetitive testing and improve efficiency
 - Implemented structured test planning, execution, and reporting for all projects
 
